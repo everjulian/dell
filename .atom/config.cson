@@ -1,0 +1,9 @@
+"*":
+  "atom-i18n":
+    customMenuI18nPath: "C:\\Users\\dell\\.atom\\packages\\atom-i18n\\def\\custom_menu.cson"
+    locale: "es"
+  core: {}
+  editor:
+    fontSize: 19
+  "exception-reporting":
+    userId: "13a422c2-46f7-404c-8d06-2f53a2d2c6ba"

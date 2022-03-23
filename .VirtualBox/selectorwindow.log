@@ -1,0 +1,18 @@
+00:00:01.085690 VirtualBox GUI VM Selector Window 6.1.32 r149290 win.amd64 (Jan 17 2022 11:29:30) release log
+00:00:01.085694 Log opened 2022-02-15T17:48:20.796687000Z
+00:00:01.085696 Build Type: release
+00:00:01.085707 OS Product: Windows 10
+00:00:01.085709 OS Release: 10.0.19043
+00:00:01.085710 OS Service Pack: 
+00:00:01.125304 DMI Product Name: Inspiron 3501
+00:00:01.134955 DMI Product Version: 
+00:00:01.134983 Firmware type: UEFI
+00:00:01.135522 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.135549 Host RAM: 7918MB (7.7GB) total, 960MB available
+00:00:01.135555 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.135557 Process ID: 13492
+00:00:01.135557 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.135786 Qt version: 5.6.2
+00:00:01.155493 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.928922 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:24.675659 GUI: UIMediumEnumerator: Medium-enumeration finished!

@@ -1,0 +1,27 @@
+00:00:00.525228 VirtualBox GUI VM Selector Window 6.1.32 r149290 win.amd64 (Jan 17 2022 11:29:30) release log
+00:00:00.525231 Log opened 2022-02-09T22:39:07.303371400Z
+00:00:00.525231 Build Type: release
+00:00:00.525235 OS Product: Windows 10
+00:00:00.525236 OS Release: 10.0.19041
+00:00:00.525237 OS Service Pack: 
+00:00:00.533683 DMI Product Name: Inspiron 3501
+00:00:00.536368 DMI Product Version: 
+00:00:00.536383 Firmware type: UEFI
+00:00:00.536572 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.536584 Host RAM: 7918MB (7.7GB) total, 2723MB (2.6GB) available
+00:00:00.536588 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.536588 Process ID: 7660
+00:00:00.536589 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.536720 Qt version: 5.6.2
+00:00:00.546775 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.941953 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:17.678745 GUI: UIMediumEnumerator: Medium with key={{48d45a91-c60b-4539-9b74-2f5071080979}} created
+00:00:17.733224 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:33.814174 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:06.137509 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:06.152237 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:10.361782 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:11.272556 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:11.303099 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:22:59.248515 GUI: UIMediumEnumerator: Medium with key={{f229a334-c2cc-4864-b16f-13fd6e3bc799}} created
+00:22:59.384032 GUI: UIMediumEnumerator: Medium-enumeration finished!
